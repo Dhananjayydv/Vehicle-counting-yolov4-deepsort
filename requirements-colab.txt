@@ -1,7 +1,7 @@
 opencv-python==4.5.4.58
 lxml
 tqdm
-tensorflow==2.8.0
+tensorflow==2.8.0rc0
 absl-py
 easydict
 matplotlib
